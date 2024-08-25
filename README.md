@@ -1,7 +1,3 @@
-Certainly! Here’s an enhanced and more visually appealing README using Markdown features like icons, emojis, and colors. This version incorporates some basic UI/UX principles to make the README more engaging and user-friendly.
-
----
-
 # 📊 **Analytical Dashboard Project with Angular and MongoDB**
 
 ## 🌟 Overview
